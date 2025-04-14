@@ -2,7 +2,7 @@
 
 ## Srawdzian Access
 
-1. pobierz plik z bazą danych "baza-blog-z1_test"
+1. pobierz plik z bazą danych [baza-blog-z1_test](https://drive.google.com/file/d/1RaS5a0VBRlFuVGejiG-jCX3VtSHVaZcr/view?usp=sharing)
 2. Utwórz relację między tabelami Artykuły i Autorzy
 3. Znajdź i usun duplikat z tabeli Artykuły
 4. Zapisz numer telefonu w formacie +48 XXX XXX XXX
