@@ -8,7 +8,9 @@ pobierz plik bazy danych stąd
    
   a)	Usuń błędny zapis (duplikat)
   
-  b)	Wprowadź nową książkę – sygnatura 8/ Ancerowicz, Weronika/ Smak gorzkiej czekolady/tom 0/sposób nabycia kupno/cena 35/wypożyczona
+  b)	Wprowadź nową książkę 
+     
+     – sygnatura 8/ Ancerowicz, Weronika/ Smak gorzkiej czekolady/tom 0/sposób nabycia kupno/cena 35/wypożyczona
 
 3.	W tabeli „Czytelnicy”
    
@@ -23,7 +25,7 @@ pobierz plik bazy danych stąd
 6.	Przdstaw powyższą kwerencę w raporcie mieszczącym się na poziomej stronie A4.
 
 7.	Utwórz formularz pozwalający na wprowadzanie czytelników. Dodaj nowego czytelnika
-8.	
+   
 Banan Robert/3b/mieszka na Bananowej 2/22 za pomocą tego formularza
 
 
