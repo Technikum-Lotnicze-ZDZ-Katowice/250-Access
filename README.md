@@ -2,7 +2,7 @@
 
 ## Srawdzian Access
 
-pobierz plik bazy danych tutaj
+pobierz plik bazy danych stąd
 
 1.	W tabeli „Książki”
 a)	Usuń błędny zapis (duplikat)
