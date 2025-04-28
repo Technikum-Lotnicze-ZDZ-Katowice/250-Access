@@ -2,7 +2,7 @@
 
 ## Srawdzian Access
 
-pobierz plik bazy danych stąd [Access sprawdzian](Sprawdzian Access.accdb)
+pobierz plik bazy danych stąd [Access sprawdzian](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/250-Access/Sprawdzian%20Access.accdb)
 
 1.W tabeli „Książki”
    
