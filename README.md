@@ -2,7 +2,7 @@
 
 ## Srawdzian Access
 
-pobierz plik bazy danych stąd
+pobierz plik bazy danych stąd (Access sprawdzian)[Sprawdzian Access.accdb]
 
 1.W tabeli „Książki”
    
