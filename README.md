@@ -2,7 +2,7 @@
 
 ## Srawdzian Access
 
-<!--
+
 pobierz plik bazy danych stąd [Access sprawdzian](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/250-Access/blob/main/2a_Sprawdzian%20Access.accdb)
 
 1.W tabeli „Książki”
@@ -30,7 +30,9 @@ pobierz plik bazy danych stąd [Access sprawdzian](https://github.com/Technikum-
       Banan Robert/3b/mieszka na Bananowej 2/22 
 
 za pomocą tego formularza
--->
+
+
+<!--
 
 
 1. Napisz co to jest rekord, atrybut, pole
@@ -44,4 +46,4 @@ za pomocą tego formularza
 9. Stwórz raport z powyższej kwerendy mieszczący wyniki na stronie A4
 
 
-
+-->
