@@ -6,19 +6,19 @@ pobierz plik bazy danych stąd
 
 1.W tabeli „Książki”
    
-a)	Usuń błędny zapis (duplikat)
+      a)	Usuń błędny zapis (duplikat)
   
-b)	Wprowadź nową książkę 
+      b)	Wprowadź nową książkę 
      
      – sygnatura 8/ Ancerowicz, Weronika/ Smak gorzkiej czekolady/tom 0/sposób nabycia kupno/cena 35/wypożyczona
 
 2.W tabeli „Czytelnicy”
    
-  a)	Zapisz kod pocztowy w odpowiednim formacie
+      a)	Zapisz kod pocztowy w odpowiednim formacie
   
-  b)	Spraw, aby numer telefonu miał następującą postać: +48 XXX XXX XXX
+      b)	Spraw, aby numer telefonu miał następującą postać: +48 XXX XXX XXX
   
-  c)	Dopisz liczbowe oznaczenia klas
+      c)	Dopisz liczbowe oznaczenia klas
 
 3.Stwórz kwerendę pokazującą wypożyczone książki (uwzględnij autora). Cena tychże książek nie może przekraczać 27 zł.
 
@@ -26,7 +26,7 @@ b)	Wprowadź nową książkę
 
 5.Utwórz formularz pozwalający na wprowadzanie czytelników. Dodaj nowego czytelnika
    
-Banan Robert/3b/mieszka na Bananowej 2/22 za pomocą tego formularza
+      Banan Robert/3b/mieszka na Bananowej 2/22 za pomocą tego formularza
 
 
 
