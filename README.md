@@ -26,7 +26,9 @@ pobierz plik bazy danych stąd
 
 5.Utwórz formularz pozwalający na wprowadzanie czytelników. Dodaj nowego czytelnika
    
-      Banan Robert/3b/mieszka na Bananowej 2/22 za pomocą tego formularza
+      Banan Robert/3b/mieszka na Bananowej 2/22 
+
+za pomocą tego formularza
 
 
 
