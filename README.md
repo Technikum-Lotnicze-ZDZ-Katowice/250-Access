@@ -23,7 +23,7 @@ pobierz plik bazy danych stąd [Access sprawdzian](https://github.com/Technikum-
 
 3.Stwórz kwerendę pokazującą wypożyczone książki (uwzględnij autora). Cena tychże książek nie może przekraczać 27 zł.
 
-4.Przdstaw powyższą kwerencę w raporcie mieszczącym się na poziomej stronie A4.
+4.Przdstaw powyższą kwerendę w raporcie mieszczącym się na poziomej stronie A4.
 
 5.Utwórz formularz pozwalający na wprowadzanie czytelników. Dodaj nowego czytelnika
    
