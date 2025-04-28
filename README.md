@@ -10,7 +10,7 @@ pobierz plik bazy danych stąd
   
       b)	Wprowadź nową książkę 
      
-     – sygnatura 8/ Ancerowicz, Weronika/ Smak gorzkiej czekolady/tom 0/sposób nabycia kupno/cena 35/wypożyczona
+     sygnatura 8/ Ancerowicz, Weronika/ Smak gorzkiej czekolady/tom 0/sposób nabycia kupno/cena 35/wypożyczona
 
 2.W tabeli „Czytelnicy”
    
