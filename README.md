@@ -2,7 +2,6 @@
 
 ## Srawdzian Access
 
-<!--
 pobierz plik bazy danych stąd [Access sprawdzian](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/250-Access/blob/main/Sprawdzian%20Access.accdb)
 
 1.W tabeli „Książki”
@@ -30,7 +29,8 @@ pobierz plik bazy danych stąd [Access sprawdzian](https://github.com/Technikum-
       Banan Robert/3b/mieszka na Bananowej 2/22 
 
 za pomocą tego formularza
--->
+
+<!--
 
 1. Napisz co to jest rekord, atrybut, pole
 2. pobierz plik z bazą danych [baza-blog-z1_test](https://drive.google.com/file/d/1RaS5a0VBRlFuVGejiG-jCX3VtSHVaZcr/view?usp=sharing)
@@ -41,4 +41,6 @@ za pomocą tego formularza
 7. Utwórz formularz umozliwiający dodanie mowego artykułu.
 8. Stwórz kwerendę wyświetlającą tylko dostarczone artykuły (uwzględniając autora) których ilość stron przekracza 3
 9. Stwórz raport z powyższej kwerendy mieszczący wyniki na stronie A4
+
+-->
 
